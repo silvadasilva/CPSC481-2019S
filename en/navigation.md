@@ -25,11 +25,11 @@
 
 * [About assignments](pages/assignments.md)
   - - - -
-  * [A-1](pages/assignment-1.md)
+  
   * [A0](pages/assignment0.md)
   * [A1](pages/assignment1.md)
   * [A2](pages/assignment2.md)
-  * [A3](pages/assignment3.md)
+
 
 [Team Project]()
 

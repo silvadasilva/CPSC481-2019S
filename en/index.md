@@ -30,34 +30,34 @@ This course provides an introduction to the process of designing, creating and e
 - Wed, May 15
 	- IDEO Methods: Ask
 	- IDEO Methods: Learn
+	- IDEO Methods: Try
 - Mon, May 20
 	- *Victoria Day*
 - Wed, May 22
 	- **Midterm**
-	- IDEO Methods: Try
-	- Ideation
 - Mon, May 27
-	- Task-Centered System Design
-	- Task-Centered System Design: Walkthrough
-- Wed, May 29
+	- Ideation
 	- Sketching
 	- [Sketching User Experiences: The Workbook](https://sketchbook.cpsc.ucalgary.ca/)
 	- Prototyping
-- Mon, Jun 03
-	- Design of Everyday Things I
-	- Design of Everyday Things II
-- Wed, Jun 05
-	- Design of Everyday Things III
-	- Design of Everyday Things IV
-- Mon, Jun 10
+- Wed, May 29
 	- Visual Design - [Slides]
+- Mon, Jun 03
 	- Introduction to Usability Evaluation
-- Wed, Jun 12
 	- Usability Evaluation
 	- Inspection Evaluation
-- Mon, Jun 17
+- Wed, Jun 05
 	- Usability Testing I
 	- Usability Testing II
+- Mon, Jun 10
+	- Design of Everyday Things I
+	- Design of Everyday Things II
+- Wed, Jun 12
+	- Design of Everyday Things III
+	- Design of Everyday Things IV
+- Mon, Jun 17
+	
+	
 - Wed, Jun 19
 	- **Final Exam**
 
@@ -67,13 +67,11 @@ This course provides an introduction to the process of designing, creating and e
 - Information in the #slides-tutorial slack channel.
 
 ## Expected Assignment and Project Dates
-- A-1: Jan 10
-- A0: Jan 17
-- A1: Feb 04
-- A2: Feb 25
-- A3: Apr 05
-- P0: Jan 25
-- P1: Feb 17
-- P2: Mar 03
-- P3: Mar 24
-- P4: Apr 08
+- A0: May 10
+- A1: Throughout the term
+- A2: Jun 01
+- P0: May 16
+- P1: May 23
+- P2: May 30
+- P3: Jun 06
+- P4: Jun 13

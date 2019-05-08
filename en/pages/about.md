@@ -1,4 +1,4 @@
-# About CPSC 481 2019W
+# About CPSC 481 2019S
 
 This course provides an introduction to the process of designing, creating and evaluating tools or artifacts for direct human use.
 
@@ -23,9 +23,9 @@ To do this, you will get hands-on experience applying multiple methods for inter
 
 | Component     | Value |
 |---------------|-------|
-| Assignments   | 12%   |
+| Assignments   | 7%   |
 | Participation | 8%    |
-| Project       | 35%   |
+| Project       | 40%   |
 | Mid-term      | 15%   |
 | Final         | 30%   |
 
@@ -39,6 +39,6 @@ Midterm and Final are closed-book exams where your knowledge retention, reasonin
 
 This is an intense course with a lot of team work.
 
-<!-- This intensity is higher in a Spring or Summer offering, because each week in these offerings is equivalent to two weeks in a regular Fall or Winter term.
- -->
+This intensity is higher in a Spring or Summer offering, because each week in these offerings is equivalent to two weeks in a regular Fall or Winter term.
+
 The recommended amount of time to spend on your studies is 2-3 hours per credit per (normal) week, right from week 1. This is a 3-unit course, which means 6-9 hours devoted to studying each week (this includes reading, reviewing, preparation for exams, assignment time, project time, etc.).

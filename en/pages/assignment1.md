@@ -1,8 +1,7 @@
-# A1: Heuristic evaluation report
+# A1: Slack posts: #gooddesign #baddesign
 
-In this assignement, your task is to choose a computational system and carry out Heuristic Evaluation as seen during the lecture.
-**This is a group assignment.**
+Regularly posting #gooddesign and #baddesign to the Slack channel.
 
-- Choose a system
-- Carry out the evaluation
-- Write a report presenting your findings
+Once a week throughout the term.
+
+**This is an individual assignment.**

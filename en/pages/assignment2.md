@@ -1,4 +1,4 @@
-# A2: User-centered research
+# A1: User-centered research
 
 You are to consider the IDEO methods for one design problem that you have, identifying which would be good methods for understanding the design problem, and arguing for why.
 **This is an individual assignment.**
