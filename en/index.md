@@ -22,9 +22,9 @@ This course provides an introduction to the process of designing, creating and e
 ## Tentative Calendar
 
 - Wed, May 08
-	- Introduction - [Slides](link)
-	- Good interfaces
-	- User-Centered Design
+	- Introduction - [Slides](../en/files/CPSC481-01-01-Introduction.pdf)
+	- Good interfaces - [Slides](../en/files/CPSC481-01-02-GoodInterfaces_UCD.pdf)
+	- User-Centered Design - [Slides](../en/files/CPSC481-01-03-UserCenteredDesign.pdf)
 - Mon, May 13
 	- Investigation
 	- IDEO Methods: Look
