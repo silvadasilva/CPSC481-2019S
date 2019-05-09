@@ -23,9 +23,8 @@
 [About](pages/about.md)
 [Assignments]()
 
-* [About assignments](pages/assignments.md)
+  * [About assignments](pages/assignments.md)
   - - - -
-  
   * [A0](pages/assignment0.md)
   * [A1](pages/assignment1.md)
   * [A2](pages/assignment2.md)

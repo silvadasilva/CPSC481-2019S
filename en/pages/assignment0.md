@@ -1,5 +1,9 @@
 # A0: Slack introduction
 
+## Description
+
+Introduce yourself.
+
 ## Activities
 In this assignment, your task is to join the CPSC481 Slack chat http://cpsc481-2019s.slack.com/, and introduce yourself.
 - Create a Slack account
