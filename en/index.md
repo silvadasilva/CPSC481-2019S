@@ -16,6 +16,7 @@ This course provides an introduction to the process of designing, creating and e
 
 - Communication
 	- [Slack](http://cpsc481-2019s.slack.com/)
+	- If you were not invited: [Slack Sign Up link](https://join.slack.com/t/cpsc481-2019s/signup)
 
 
 ## Tentative Calendar
