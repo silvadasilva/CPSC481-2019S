@@ -26,10 +26,10 @@ This course provides an introduction to the process of designing, creating and e
 	- Good interfaces - [Slides](../en/files/CPSC481-01-02-GoodInterfaces_UCD.pdf)
 	- User-Centered Design - [Slides](../en/files/CPSC481-01-03-UserCenteredDesign.pdf)
 - Mon, May 13
-	- Investigation
-	- IDEO Methods: Look
+	- Investigation - [Slides](../en/files/CPSC481-02-01-Investigation.pdf)
+	- IDEO Methods: Look - [Slides](../en/files/CPSC481-02-02-Look.pdf)
+	- IDEO Methods: Ask - [Slides](../en/files/CPSC481-02-03-Ask.pdf)
 - Wed, May 15
-	- IDEO Methods: Ask
 	- IDEO Methods: Learn
 	- IDEO Methods: Try
 - Mon, May 20
