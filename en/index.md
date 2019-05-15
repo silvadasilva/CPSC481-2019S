@@ -30,14 +30,14 @@ This course provides an introduction to the process of designing, creating and e
 	- IDEO Methods: Look - [Slides](../en/files/CPSC481-02-02-Look.pdf)
 	- IDEO Methods: Ask - [Slides](../en/files/CPSC481-02-03-Ask.pdf)
 - Wed, May 15
-	- IDEO Methods: Learn
-	- IDEO Methods: Try
+	- IDEO Methods: Learn - [Slides](../en/files/CPSC481-03-01-Learn.pdf)
+	- IDEO Methods: Try - [Slides](../en/files/CPSC481-03-02-Try.pdf)
+	- Ideation - [Slides](../en/files/CPSC481-05-02-Ideation.pdf)
 - Mon, May 20
 	- *Victoria Day*
 - Wed, May 22
 	- **Midterm**
 - Mon, May 27
-	- Ideation
 	- Sketching
 	- [Sketching User Experiences: The Workbook](https://sketchbook.cpsc.ucalgary.ca/)
 	- Prototyping
