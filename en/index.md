@@ -38,9 +38,9 @@ This course provides an introduction to the process of designing, creating and e
 - Wed, May 22
 	- **Midterm**
 - Mon, May 27
-	- Sketching
+	- Sketching - [Slides](../en/files/CPSC481-05-02-Ideation.pdf)
 	- [Sketching User Experiences: The Workbook](https://sketchbook.cpsc.ucalgary.ca/)
-	- Prototyping
+	- Prototyping - [Slides](../en/files/CPSC481-05-02-Prototyping.pdf)
 - Wed, May 29
 	- Visual Design - [Slides]
 - Mon, Jun 03
