@@ -44,9 +44,8 @@ This course provides an introduction to the process of designing, creating and e
 - Wed, May 29
 	- Visual Design - [Slides]
 - Mon, Jun 03
-	- Introduction to Usability Evaluation
-	- Usability Evaluation
-	- Inspection Evaluation
+	- Introduction to Usability Evaluation - [Slides](../en/files/CPSC481-06-01-Intro-to-Usability-Evaluation.pdf)
+	- Inspection Evaluation - [Slides](../en/files/CPSC481-06-02-Usability Inspection Evaluation.pdf)
 - Wed, Jun 05
 	- Usability Testing I
 	- Usability Testing II
@@ -59,7 +58,7 @@ This course provides an introduction to the process of designing, creating and e
 - Mon, Jun 17
 	
 	
-- Wed, Jun 19
+- Fri, Jun 21
 	- **Final Exam**
 
 
