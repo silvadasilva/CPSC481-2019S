@@ -1,5 +1,17 @@
 # About CPSC 481 2019S
 
+Note: Check out the updates!
+
+## Updates
+|        Date        |          Topic           |   Description and Tasks  |
+|--------------------|--------------------------|
+| Jun 4th (Tutorial) | Hi-fi Prototype          |- TA gives a presentation about Hi-Fi prototyping. <br/> - TA gives students an exercise - to pick one task from their project and convert it from low-Fi prototype to Hi-Fi. <br/> - Students are required to complete their final Hi-fi prototype on their own outside of class time.   |
+| Jun 6th (Tutorial) | Hi-Fi Prototype delivery |- Tiago and Lorans decided to drop the heuristic evaluation at this stage. <br/> - Students are required to ONLY deliver a Hi-Fi prototype on the 6th of Jun. <br/> - Students will have 10 min to present their prototype and then TA will give them feedback (just like the low-fi presentation day). <br/> - Students will have until 11:59 PM – 6th of June to submit their final Hi-fi prototype.    |
+| Jun 11th (Tutorial)| Heuristic Evaluation     | - TA will have a short presentation to explain what is expected during the heuristic evaluation session. <br/> - Students will have the entire TA session to conduct heuristic evaluation on other groups projects. <br/> - Students will complete the evaluation and can complete the evaluation report after the class time. <br/> - Students are required to attach their evaluation report with their final project deliverables.   |
+| Jun 13th (Tutorial)| User Testing             | - TA will have a short presentation to explain what is expected during the user testing session. <br/> - Students will have the entire session to work on the tasks and run a pilot study of their user testing. <br/> Students are required to complete the user testing outside of the class time. Students need to test with AT LEAST 3 users.      |
+| Jun 17th (Lecture) | Final Presentation day   | - All students MUST prepare a final presentation for their project. <br/> - Students cannot exceed the specified presentation time. <br/> - Students will have until 11:59 PM on June 17 to submit their final report.   |
+
+
 This course provides an introduction to the process of designing, creating and evaluating tools or artifacts for direct human use.
 
 ## Description

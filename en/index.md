@@ -1,5 +1,9 @@
 # CPSC 481 - Human-Computer Interaction: Foundations and Principles
 
+Note: Final Exame scheduled: June 21st (8:30 - 10:30)
+
+Note: Check out the updates!
+
 ## Course Information
 
 This course provides an introduction to the process of designing, creating and evaluating tools or artifacts for direct human use.
@@ -42,7 +46,7 @@ This course provides an introduction to the process of designing, creating and e
 	- [Sketching User Experiences: The Workbook](https://sketchbook.cpsc.ucalgary.ca/)
 	- Prototyping - [Slides](../en/files/CPSC481-05-02-Prototyping.pdf)
 - Wed, May 29
-	- Visual Design - [Slides]
+	- Visual Design (Lorans) - [Slides](../en/files/15-Intro-to-Graphic-Design-for-UX.pdf)
 - Mon, Jun 03
 	- Introduction to Usability Evaluation - [Slides](../en/files/CPSC481-06-01-Intro-to-Usability-Evaluation.pdf)
 	- Inspection Evaluation - [Slides](../en/files/CPSC481-06-02-Usability Inspection Evaluation.pdf)
@@ -74,4 +78,4 @@ This course provides an introduction to the process of designing, creating and e
 - P1: May 23
 - P2: May 30
 - P3: Jun 06
-- P4: Jun 13
+- P4: Jun 17
