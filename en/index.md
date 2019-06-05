@@ -49,10 +49,10 @@ This course provides an introduction to the process of designing, creating and e
 	- Visual Design (Lorans) - [Slides](../en/files/15-Intro-to-Graphic-Design-for-UX.pdf)
 - Mon, Jun 03
 	- Introduction to Usability Evaluation - [Slides](../en/files/CPSC481-06-01-Intro-to-Usability-Evaluation.pdf)
-	- Inspection Evaluation - [Slides](../en/files/CPSC481-06-02-Usability Inspection Evaluation.pdf)
+	- Inspection Evaluation - [Slides](../en/files/CPSC481-06-02-Usability-Inspection-Evaluation.pdf)
 - Wed, Jun 05
-	- Usability Testing I
-	- Usability Testing II
+	- Usability Testing I - [Slides](../en/files/CPSC481-07-01-Usability-Testing.pdf)
+	- Usability Testing II - [Slides](../en/files/CPSC481-07-02-Usability-Testing.pdf)
 - Mon, Jun 10
 	- Design of Everyday Things I
 	- Design of Everyday Things II
