@@ -54,8 +54,8 @@ This course provides an introduction to the process of designing, creating and e
 	- Usability Testing I - [Slides](../en/files/CPSC481-07-01-Usability-Testing.pdf)
 	- Usability Testing II - [Slides](../en/files/CPSC481-07-02-Usability-Testing.pdf)
 - Mon, Jun 10
-	- Design of Everyday Things I
-	- Design of Everyday Things II
+	- Design of Everyday Things I - [Slides](../en/files/CPSC481-08-01-DOET.pdf)
+	- Design of Everyday Things II - [Slides](../en/files/CPSC481-08-02-DOET.pdf)
 - Wed, Jun 12
 	- Design of Everyday Things III
 	- Design of Everyday Things IV
