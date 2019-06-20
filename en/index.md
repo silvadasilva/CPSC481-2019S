@@ -1,6 +1,6 @@
 # CPSC 481 - Human-Computer Interaction: Foundations and Principles
 
-Note: Final Exame scheduled: June 21st (8:30 - 10:30)
+Note: Final Exame scheduled: June 21st (8:30 - 10:30) Room ST 145
 
 Note: Check out the updates!
 
@@ -63,7 +63,7 @@ This course provides an introduction to the process of designing, creating and e
 	- Final presentations
 	
 - Fri, Jun 21
-	- **Final Exam**
+	- **Final Exam**: 8:30 - 10:30, room ST 145
 
 
 
